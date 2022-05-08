@@ -1,5 +1,5 @@
 
-## 📝 GitHub
+## ✒️ GitHub
 
 - https://github.com/formin
 
