@@ -46,4 +46,5 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-6aa6f8?style=flat-square&logo=Kubernetes&logoColor=white" />
   <img alt="Let's Encrypt" src="https://img.shields.io/badge/-Let's Encrypt-B4A7D6?style=flat-square&logo=Let's Encrypt&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-7eadc2?style=flat-square&logo=Express&logoColor=white" />
 </p>
