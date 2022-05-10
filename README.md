@@ -49,4 +49,5 @@
   <img alt="Let's Encrypt" src="https://img.shields.io/badge/-Let's Encrypt-003A70?style=flat-square&logo=Let's Encrypt&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white" />
   <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
 </p>
