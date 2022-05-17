@@ -50,4 +50,5 @@
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white" />
   <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="GitBook" src="https://img.shields.io/badge/-GitBook-3884FF?style=flat-square&logo=GitBook&logoColor=white" />
 </p>
