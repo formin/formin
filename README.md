@@ -51,4 +51,5 @@
   <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img alt="GitBook" src="https://img.shields.io/badge/-GitBook-3884FF?style=flat-square&logo=GitBook&logoColor=white" />
+  <img alt="Redmine" src="https://img.shields.io/badge/-Redmine-B32024?style=flat-square&logo=Redmine&logoColor=white" />
 </p>
