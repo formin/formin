@@ -54,4 +54,5 @@
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white" />
   <img alt="GitBook" src="https://img.shields.io/badge/-GitBook-3884FF?style=flat-square&logo=GitBook&logoColor=white" />
   <img alt="Redmine" src="https://img.shields.io/badge/-Redmine-B32024?style=flat-square&logo=Redmine&logoColor=white" />
+  <img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=Electron&logoColor=white" />
 </p>
