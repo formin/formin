@@ -5,7 +5,8 @@
 
 ## 📝 Blogs
 
-- Personal website and blog: https://programmers.pe.kr/
+- Personal website: https://programmers.pe.kr/
+- Personal velog: https://velog.io/@formin
 
 ## 🔧 Technologies & Tools
  
