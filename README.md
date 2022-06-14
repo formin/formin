@@ -55,6 +55,7 @@
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white" />
   <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" />
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white" />
   <img alt="GitBook" src="https://img.shields.io/badge/-GitBook-3884FF?style=flat-square&logo=GitBook&logoColor=white" />
   <img alt="Redmine" src="https://img.shields.io/badge/-Redmine-B32024?style=flat-square&logo=Redmine&logoColor=white" />
