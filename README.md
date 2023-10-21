@@ -10,7 +10,14 @@
 
 ## 🔧 Technologies & Tools
  
-<p>
+<p>/>
+  <img alt="C Sharp" src="https://img.shields.io/badge/-C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white" />
+  <img alt="GoLang" src="https://img.shields.io/badge/-GoLang-000000?style=flat-square&logo=GoLand&logoColor=white" />
+  <img alt="Php" src="https://img.shields.io/badge/-Php-777BB4?style=flat-square&logo=Php&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="SpringFramework" src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" />
+  <img alt="Qt" src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=Qt&logoColor=white" />
   <img alt="linux" src="https://img.shields.io/badge/-linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
   <img alt="windows" src="https://img.shields.io/badge/-windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white" />
@@ -28,16 +35,11 @@
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> 
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white" />
   <img alt="Apollo GraphQL" src="https://img.shields.io/badge/-Apollo GraphQL-311C87?style=flat-square&logo=Apollo GraphQL&logoColor=white" />
-  <img alt="Php" src="https://img.shields.io/badge/-Php-777BB4?style=flat-square&logo=Php&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white" />
-  <img alt="C Sharp" src="https://img.shields.io/badge/-C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white" />
-  <img alt="GoLang" src="https://img.shields.io/badge/-GoLang-000000?style=flat-square&logo=GoLand&logoColor=white" />
-  <img alt="Qt" src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=Qt&logoColor=white" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
+  <img alt="ReactiveX" src="https://img.shields.io/badge/-ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white" 
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
   <img alt="Subversion" src="https://img.shields.io/badge/-Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="AngularJS" src="https://img.shields.io/badge/-AngularJS-E23237?style=flat-square&logo=AngularJS&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
@@ -54,7 +56,6 @@
   <img alt="Let's Encrypt" src="https://img.shields.io/badge/-Let's Encrypt-003A70?style=flat-square&logo=Let's Encrypt&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white" />
   <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=RabbitMQ&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" />
   <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white" />
   <img alt="GitBook" src="https://img.shields.io/badge/-GitBook-3884FF?style=flat-square&logo=GitBook&logoColor=white" />
