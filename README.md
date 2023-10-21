@@ -10,13 +10,13 @@
 
 ## 🔧 Technologies & Tools
  
-<p>/>
-  <img alt="C Sharp" src="https://img.shields.io/badge/-C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white" />
-  <img alt="GoLang" src="https://img.shields.io/badge/-GoLang-000000?style=flat-square&logo=GoLand&logoColor=white" />
-  <img alt="Php" src="https://img.shields.io/badge/-Php-777BB4?style=flat-square&logo=Php&logoColor=white" />
+<p>
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img alt="SpringFramework" src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
+  <img alt="Php" src="https://img.shields.io/badge/-Php-777BB4?style=flat-square&logo=Php&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" />
+  <img alt="C Sharp" src="https://img.shields.io/badge/-C Sharp-239120?style=flat-square&logo=C Sharp&logoColor=white" />
+  <img alt="GoLang" src="https://img.shields.io/badge/-GoLang-000000?style=flat-square&logo=GoLand&logoColor=white" />
   <img alt="Qt" src="https://img.shields.io/badge/-Qt-41CD52?style=flat-square&logo=Qt&logoColor=white" />
   <img alt="linux" src="https://img.shields.io/badge/-linux-FCC624?style=flat-square&logo=linux&logoColor=white" />
   <img alt="windows" src="https://img.shields.io/badge/-windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
@@ -36,11 +36,12 @@
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white" />
   <img alt="Apollo GraphQL" src="https://img.shields.io/badge/-Apollo GraphQL-311C87?style=flat-square&logo=Apollo GraphQL&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux&logoColor=white" />
-  <img alt="ReactiveX" src="https://img.shields.io/badge/-ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white" 
+  <img alt="ReactiveX" src="https://img.shields.io/badge/-ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
   <img alt="Subversion" src="https://img.shields.io/badge/-Subversion-809CC9?style=flat-square&logo=Subversion&logoColor=white" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
   <img alt="AngularJS" src="https://img.shields.io/badge/-AngularJS-E23237?style=flat-square&logo=AngularJS&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
   <img alt="Apache" src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=Apache&logoColor=white" />
@@ -50,7 +51,6 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-003545?style=flat-square&logo=PostgreSQL&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="CodeSandbox" src="https://img.shields.io/badge/-CodeSandbox-000000?style=flat-square&logo=CodeSandbox&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
   <img alt="Let's Encrypt" src="https://img.shields.io/badge/-Let's Encrypt-003A70?style=flat-square&logo=Let's Encrypt&logoColor=white" />
