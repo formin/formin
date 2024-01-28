@@ -1,3 +1,5 @@
+## 📝 badges
+- https://www.credly.com/users/formin/badges
 
 ## ✒️ GitHub
 
