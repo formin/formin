@@ -1,14 +1,14 @@
 ## 📝 badges
-- https://www.credly.com/users/formin/badges
+- <a href="https://www.credly.com/users/formin/badges">https://www.credly.com/users/formin/badges</a>
 
 ## ✒️ GitHub
 
-- https://github.com/formin
+- <a href="https://github.com/formin">https://github.com/formin</a>
 
 ## 📝 Blogs
 
-- Personal website: https://programmers.pe.kr/
-- Personal velog: https://velog.io/@formin
+- Personal website: <a href="https://programmers.pe.kr>https://programmers.pe.kr</a>
+- Personal velog: <a href="https://velog.io/@formin">https://velog.io/@formin</a>
 
 ## 🔧 Technologies & Tools
  
