@@ -9,6 +9,7 @@
 
 - Personal website: <a href="https://programmers.pe.kr" target="_other">https://programmers.pe.kr</a>
 - Personal velog: <a href="https://velog.io/@formin" target="_other">https://velog.io/@formin</a>
+- email: formin@programmers.pe.kr
 
 ## 🔧 Technologies & Tools
  
