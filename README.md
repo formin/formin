@@ -31,10 +31,10 @@ Three Korean patent applications are currently pending, including:
 
 ## Research Manuscripts
 
-- **A Preservation-Signal-Based, Content-Aware Adaptive Multi-Layer Token Compression Gateway** — peer review completed.
-- **A Vision-Language Cache Adapter Framework for Surface Inspection of Chrome-Plated Nail Clippers with Limited Defect Data** — under peer review.
+- **A Preservation-Signal-Based, Content-Aware Adaptive Multi-Layer Token Compression Gateway** — accepted for publication; final manuscript received (acceptance recorded July 27, 2026).
+- **A Vision-Language Cache Adapter Framework for Surface Inspection of Chrome-Plated Nail Clippers with Limited Defect Data** — accepted for publication; final manuscript received (acceptance recorded July 22, 2026).
 
-These are manuscript workflow statuses and are not presented here as published journal articles.
+These are accepted-manuscript workflow statuses and are not presented here as published journal articles.
 
 ## Evidence and Source Dashboards
 
