@@ -24,10 +24,11 @@ Three books are currently live on Amazon as both Kindle eBooks and paperbacks:
 
 ## Patent Applications
 
-Three Korean patent applications are currently pending, including:
+Three Korean patent applications are pending (as of September 14, 2026):
 
-- **Automated Benchmark Evaluation System and Method for a Multi-Stage Retrieval-Augmented Generation Pipeline Based on Korean Public Data**
-- **Process-Tracking-Integrated Vision-Language Cache Adapter Inspection System and Method for Surface Inspection of Chrome-Plated Products Using Limited Defect Data**
+- **Automated Benchmark Evaluation System and Method for a Multi-Stage Retrieval-Augmented Generation Pipeline Based on Korean Public Data** — Korean application **10-2026-0112900**, filed **2026-06-20**.
+- **Process-Tracking-Integrated Vision-Language Cache Adapter Inspection System and Method for Surface Inspection of Chrome-Plated Products Using Limited Defect Data** — Korean application **10-2026-0118957**, filed **2026-06-30**.
+- **Content-Aware Adaptive Multi-Layer Token Compression Gateway for Preserving Performance of a Large Language Model, and Method Thereof** — Korean application **10-2026-0121086**, filed **2026-07-02**. Examination requested on **2026-09-14**.
 
 ## Research Manuscripts
 
