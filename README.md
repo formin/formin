@@ -49,6 +49,10 @@ The following account-based source pages were used to verify the publication and
 ## Verified Credentials
 - <a href="https://www.credly.com/users/formin/badges" target="_other">https://www.credly.com/users/formin/badges</a>
 
+## ORCID
+
+- <a href="https://orcid.org/0009-0008-7075-1455" target="_other">https://orcid.org/0009-0008-7075-1455</a>
+
 ## ✒️ GitHub
 
 - <a href="https://github.com/formin" target="_other">https://github.com/formin</a>
