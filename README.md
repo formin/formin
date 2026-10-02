@@ -16,12 +16,13 @@ Software engineer, applied AI practitioner, technical educator, and author focus
 
 ## Books
 
-Four books are currently live on Amazon as both Kindle eBooks and paperbacks:
+Five books are currently live on Amazon as both Kindle eBooks and paperbacks:
 
 1. **Spec-Driven AI Development with GitHub Spec Kit and Token Economy: From Vibe Coding to Measured, Testable, Agentic Software Delivery** — [Kindle eBook](https://www.amazon.com/dp/B0GX2YSZQP) · [Paperback](https://www.amazon.com/dp/B0H64CJ81R)
 2. **Spec-Driven Development with GitHub Spec Kit and Task Master: A Hands-On Guide to Planning, Decomposing, and Shipping Software with AI Coding Agents** — [Kindle eBook](https://www.amazon.com/dp/B0H66HSSD2) · [Paperback](https://www.amazon.com/dp/B0H66G1BYQ)
 3. **Spec-Driven Android Game Development: Building and Shipping Stick Arena with GitHub Spec Kit** — [Kindle eBook](https://www.amazon.com/dp/B0H66NN4H6) · [Paperback](https://www.amazon.com/dp/B0H66X9416)
 4. **The Specification Shift: A Workplace Novel About Turning Vibe Coding into Software That Holds** — [Kindle eBook](https://www.amazon.com/dp/B0HHCMZM3C) · [Paperback](https://www.amazon.com/dp/B0HHDJFMTF)
+5. **Spec-Driven Development with GitHub Spec Kit: The Complete Guide to Building Reliable Software with AI Coding Agents: Specs, Extensions, Task Master, Production Workflows, and a Shipped Android Game** — [Kindle eBook](https://www.amazon.com/dp/B0HLS9W7KV) · [Paperback](https://www.amazon.com/dp/B0HLS59DX3)
 
 ## Patent Applications
 
