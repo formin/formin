@@ -32,12 +32,16 @@ Three Korean patent applications are pending (as of September 25, 2026):
 - **Process-Tracking-Integrated Vision-Language Cache Adapter Inspection System and Method for Surface Inspection of Chrome-Plated Products Using Limited Defect Data** — Korean application **10-2026-0118957**, filed **2026-06-30**. Examination requested on **2026-07-22**.
 - **Content-Aware Adaptive Multi-Layer Token Compression Gateway for Preserving Performance of a Large Language Model, and Method Thereof** — Korean application **10-2026-0121086**, filed **2026-07-02**. Examination requested on **2026-09-14**.
 
+## Published Research
+
+- **A Vision-Language Cache Adapter Framework for Chrome-Plated Nail Clipper Surface Inspection under Few-Shot Defect Data** — Gyeongmin Kim. *Journal of Korean Institute of Information Technology (한국정보기술학회논문지)*, **24(9)**, **71-78**, September 2026. [DOI: 10.14801/jkiit.2026.24.9.71](https://doi.org/10.14801/jkiit.2026.24.9.71) · [DBpia](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12998829)
+  - Korean title: 소량 불량 데이터 기반 크롬 도금 손톱깎이 표면검사를 위한 비전-언어 캐시 어댑터 프레임워크.
+
 ## Research Manuscripts
 
 - **A Preservation-Signal-Based, Content-Aware Adaptive Multi-Layer Token Compression Gateway** — accepted for publication; final manuscript received (acceptance recorded July 27, 2026).
-- **A Vision-Language Cache Adapter Framework for Surface Inspection of Chrome-Plated Nail Clippers with Limited Defect Data** — accepted for publication; final manuscript received (acceptance recorded July 22, 2026).
 
-These are accepted-manuscript workflow statuses and are not presented here as published journal articles.
+This manuscript remains an accepted-manuscript workflow status and is not presented here as a published journal article.
 
 ## Evidence and Source Dashboards
 
